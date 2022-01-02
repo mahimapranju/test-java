@@ -16,5 +16,6 @@ class Employee{
 	Employee emp=new Employee();
 	String str=new String("Abc");
 	System.gc();
+	System.out.println("this is a new feature");
 	}
 	}
